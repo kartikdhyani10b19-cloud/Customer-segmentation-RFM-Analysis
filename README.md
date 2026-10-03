@@ -96,7 +96,7 @@ The business wanted to answer the following questions:
 
 # 👨‍💻 Author
 
-**Paras Mudgal**
+**Kartik Dhyani**
 
 B.Tech (Information Technology)
 
